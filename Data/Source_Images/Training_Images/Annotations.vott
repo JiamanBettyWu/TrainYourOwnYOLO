@@ -1,0 +1,165 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGIyZWQ4OWMyNWZjYWY1NjA0ZmE3MDA3YWEwYTMwMDU4ZGQwYzQ3Yjg0YmI4NDQ1MmRiNDY5YjQ5YWRjNmNjYzgyZTE3NDM2YjhhMDBmOWFmNTRiNjA5MzA0OTJiMTk0NWY2NWEzZjc4NzI1NDdjZGRjOGQ1NGQyZDU2NjI5YzQiLCJpdiI6IjY5M2NiYWJmNGU0NDNhNDA5YzFmNTBmMjU5ZDgxNDhlYzVjNmIxY2U0Mzg0ZTU5ZCJ9"
+        },
+        "id": "eD25ZO_mf"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGViNzAyYjQ3N2ZlMGRmMjJkYmI1ZjI0MmM0NDdjZDAzNjZlZjM5MWI5YmE3MmIyMjIzZWI0NWJjMWQ0MTdlZTFlODg5NzQ4NWEyN2ZjMzI2ZTdhMTk2YmNmYTc1ZGE5Zjc4MDUzOGE0NjBiNjNmZjViOTQxNTlhYTRkZjExMjEiLCJpdiI6ImFmNzk2ODZhZDQ1ZDFkNjZhOWM1YzljOWE0Nzk4MDExY2YyNTBkNDRhOWRjMDllYyJ9"
+        },
+        "id": "eD25ZO_mf"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "bar",
+            "color": "#5db300"
+        }
+    ],
+    "id": "arluvBbss",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTBjZTMzZTk0ZWY3NTg4YTQwZjljZTY3MWU0Y2VlOGIyYTg0NWQ1YjU5Zjg1NWUyMTNmYmQ5ZDcyYzYzYzAwMGM0NzI5MjRjMDMzYTYwMmZjMWFmOTFkYmY3ZTU2MDVhIiwiaXYiOiIyZDViNDEwNjMzMTE1NDJkNTgxMWRlMTUzODEzNzdkYWI4NWQ2NTI3NTk3ODcyMTIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "40081804b02567ad6767894d767df733",
+    "assets": {
+        "352ed9dcdde5f79cd319128cb27be264": {
+            "format": "jpg",
+            "id": "352ed9dcdde5f79cd319128cb27be264",
+            "name": "05102009081.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009081.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2504df9ad37875553dbc7cb3a90e1daf": {
+            "format": "jpg",
+            "id": "2504df9ad37875553dbc7cb3a90e1daf",
+            "name": "05102009082.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009082.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c78ea1a44f0010a39c097f9a47239b93": {
+            "format": "jpg",
+            "id": "c78ea1a44f0010a39c097f9a47239b93",
+            "name": "05102009083.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009083.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c903957522a43bd941073a7d52abf23": {
+            "format": "jpg",
+            "id": "0c903957522a43bd941073a7d52abf23",
+            "name": "05102009101.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009101.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80422197750e30f9c5ba86a104edaa70": {
+            "format": "jpg",
+            "id": "80422197750e30f9c5ba86a104edaa70",
+            "name": "05102009102.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009102.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff935cb3ad630b20644b8c1f61cc7ff1": {
+            "format": "jpg",
+            "id": "ff935cb3ad630b20644b8c1f61cc7ff1",
+            "name": "05102009103.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009103.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66f1d9fadb77d10c5cc4e6fa6c396935": {
+            "format": "jpg",
+            "id": "66f1d9fadb77d10c5cc4e6fa6c396935",
+            "name": "05102009104.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009104.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c81862a665dad5eb50b83a622a0a7e82": {
+            "format": "jpg",
+            "id": "c81862a665dad5eb50b83a622a0a7e82",
+            "name": "05102009105.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009105.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5a45d3482b668a69bd6b931de10234c": {
+            "format": "jpg",
+            "id": "b5a45d3482b668a69bd6b931de10234c",
+            "name": "05102009106.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009106.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40081804b02567ad6767894d767df733": {
+            "format": "jpg",
+            "id": "40081804b02567ad6767894d767df733",
+            "name": "05102009108.jpg",
+            "path": "file:/Users/apple/Desktop/bar_images/05102009108.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
