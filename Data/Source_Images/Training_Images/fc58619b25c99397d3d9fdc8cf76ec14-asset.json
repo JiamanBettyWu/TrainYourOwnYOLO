@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fc58619b25c99397d3d9fdc8cf76ec14",
+        "name": "05102009199.jpg",
+        "path": "file:/Users/michaeltang/Downloads/TrainYourOwnTOLO/Data/Source%20Images/Training_Images/05102009199.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zFpO2mGWy",
+            "type": "RECTANGLE",
+            "tags": [
+                "bar"
+            ],
+            "boundingBox": {
+                "height": 961.2840276043102,
+                "width": 1118.8330360835403,
+                "left": 277.6380919148056,
+                "top": 71.56324964899738
+            },
+            "points": [
+                {
+                    "x": 277.6380919148056,
+                    "y": 71.56324964899738
+                },
+                {
+                    "x": 1396.4711279983458,
+                    "y": 71.56324964899738
+                },
+                {
+                    "x": 1396.4711279983458,
+                    "y": 1032.8472772533075
+                },
+                {
+                    "x": 277.6380919148056,
+                    "y": 1032.8472772533075
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

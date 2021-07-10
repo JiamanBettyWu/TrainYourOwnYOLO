@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "d25d7945c6a4c9951df7d772576c1167",
+        "name": "PIChT0002.JPG",
+        "path": "file:/Users/michaeltang/Downloads/TrainYourOwnTOLO/Data/Source%20Images/Training_Images/PIChT0002.JPG",
+        "size": {
+            "width": 2976,
+            "height": 2232
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ctqOcKMgL",
+            "type": "RECTANGLE",
+            "tags": [
+                "bar"
+            ],
+            "boundingBox": {
+                "height": 485.32457459774673,
+                "width": 1380.4573317307693,
+                "left": 762.9375,
+                "top": 980.6967095119556
+            },
+            "points": [
+                {
+                    "x": 762.9375,
+                    "y": 980.6967095119556
+                },
+                {
+                    "x": 2143.3948317307695,
+                    "y": 980.6967095119556
+                },
+                {
+                    "x": 2143.3948317307695,
+                    "y": 1466.0212841097025
+                },
+                {
+                    "x": 762.9375,
+                    "y": 1466.0212841097025
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

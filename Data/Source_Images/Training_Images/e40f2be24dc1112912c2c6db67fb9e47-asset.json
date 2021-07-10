@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "e40f2be24dc1112912c2c6db67fb9e47",
+        "name": "PICT0021.JPG",
+        "path": "file:/Users/michaeltang/Downloads/TrainYourOwnTOLO/Data/Source%20Images/Training_Images/PICT0021.JPG",
+        "size": {
+            "width": 2976,
+            "height": 2232
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uRUA_UCRI",
+            "type": "RECTANGLE",
+            "tags": [
+                "bar"
+            ],
+            "boundingBox": {
+                "height": 1089.3099428490216,
+                "width": 1458.4149639423078,
+                "left": 224.1706730769231,
+                "top": 398.29568471351297
+            },
+            "points": [
+                {
+                    "x": 224.1706730769231,
+                    "y": 398.29568471351297
+                },
+                {
+                    "x": 1682.585637019231,
+                    "y": 398.29568471351297
+                },
+                {
+                    "x": 1682.585637019231,
+                    "y": 1487.6056275625344
+                },
+                {
+                    "x": 224.1706730769231,
+                    "y": 1487.6056275625344
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

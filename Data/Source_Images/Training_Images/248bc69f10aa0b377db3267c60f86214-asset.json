@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "248bc69f10aa0b377db3267c60f86214",
+        "name": "05102009218.jpg",
+        "path": "file:/Users/michaeltang/Downloads/TrainYourOwnTOLO/Data/Source%20Images/Training_Images/05102009218.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LaWNYCMdJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "bar"
+            ],
+            "boundingBox": {
+                "height": 405.60271779389467,
+                "width": 607.4650085297767,
+                "left": 506.4194646918941,
+                "top": 355.5497982273291
+            },
+            "points": [
+                {
+                    "x": 506.4194646918941,
+                    "y": 355.5497982273291
+                },
+                {
+                    "x": 1113.8844732216708,
+                    "y": 355.5497982273291
+                },
+                {
+                    "x": 1113.8844732216708,
+                    "y": 761.1525160212238
+                },
+                {
+                    "x": 506.4194646918941,
+                    "y": 761.1525160212238
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
