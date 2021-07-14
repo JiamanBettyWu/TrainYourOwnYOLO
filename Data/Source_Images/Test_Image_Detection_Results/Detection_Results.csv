@@ -1,2 +1,10 @@
 image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
-dog.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/dog.jpg,1460,395,2123,1374,0,0.5163541436195374,2691,2691
+PICT0039.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PICT0039.jpg,0,0,2976,1836,0,0.6466073393821716,2976,2232
+PICT0039.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PICT0039.jpg,823,634,2158,1144,0,0.6801455616950989,2976,2232
+PIfghghfCT0009.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PIfghghfCT0009.jpg,502,651,1643,1842,0,0.4423982799053192,2976,2232
+PIfghghfCT0009.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PIfghghfCT0009.jpg,877,846,1589,1647,0,0.5227681398391724,2976,2232
+PIfghghfCT0009.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PIfghghfCT0009.jpg,103,0,2463,2232,0,0.6514256596565247,2976,2232
+PIfghghfCT0009.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PIfghghfCT0009.jpg,939,921,1510,1207,0,0.7667922377586365,2976,2232
+print-barcode-zxing-1.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/print-barcode-zxing-1.jpg,219,265,508,379,0,0.25002166628837585,845,666
+print-barcode-zxing-1.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/print-barcode-zxing-1.jpg,0,0,845,585,0,0.7345885038375854,845,666
+print-barcode-zxing-1.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/print-barcode-zxing-1.jpg,0,0,737,666,0,0.8808722496032715,845,666
