@@ -1,5 +1,2 @@
 image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
-raccoon-5.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/raccoon-5.jpg,56,1,254,151,0,0.9565308094024658,270,187
-raccoon-1.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/raccoon-1.jpg,235,124,401,231,0,0.31112852692604065,650,417
-raccoon-1.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/raccoon-1.jpg,162,119,472,263,0,0.4998534917831421,650,417
-raccoon-3.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/raccoon-3.jpg,151,12,646,453,0,0.9813988208770752,720,480
+dog.jpg,/home/ubuntu/mur/TrainYourOwnYOLO/Data/Source_Images/Test_Images/dog.jpg,1460,395,2123,1374,0,0.5163541436195374,2691,2691
